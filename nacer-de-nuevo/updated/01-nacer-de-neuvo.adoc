@@ -1,11 +1,12 @@
 == Debes Nacer de Nuevo
 
-Sermón predicado por William Dewsbury en Gracechurch Street,
+[.chapter-subtitle--blurb]
+Sermón predicado por William Dewsbury en Gracechurch Street, el 16 del mes Tres de 1688
 
-el 16 del mes Tres de 1688
-
+[.salutation]
 Mis Amigos,
 
+[.offset]
 A menos que sean regenerados y nazcan de nuevo, no pueden heredar el reino de Dios.
 
 Esta es la palabra del Señor Dios para todos los hombres hoy.
